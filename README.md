@@ -1,6 +1,6 @@
 # Projet PeerCollabPolicy
 
-Ce projet a été réalisé lors de l'UE "Analyse des réseaux" de M1 IREF. Il vise à analyser l'impact d'une intervention politique visant à encourager les collaborations scientifiques entre chercheurs. Un réseau de scientifiques a été observé avant et après cette intervention pour évaluer son efficacité.
+Ce projet a été réalisé lors de l'UE "Analyse des réseaux" de M1 IREF en collaboration avec Ulrich Karl ODJO. Il vise à analyser l'impact d'une intervention politique visant à encourager les collaborations scientifiques entre chercheurs. Un réseau de scientifiques a été observé avant et après cette intervention pour évaluer son efficacité.
 
 ## Le projet comprend les éléments suivants
 
